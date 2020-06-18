@@ -1,0 +1,23 @@
+{
+  "name": "adv_node_js",
+  "version": "1.0.0",
+  "description": "node js packages",
+  "main": "parsing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node parsing.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshMule20/Node-Js-Projects-and-Concepts.git"
+  },
+  "author": "Harsh Mule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshMule20/Node-Js-Projects-and-Concepts/issues"
+  },
+  "homepage": "https://github.com/HarshMule20/Node-Js-Projects-and-Concepts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
