@@ -38,7 +38,8 @@ module.exports = routinghandler;
 
 // When multiple functions are needed to be export 
 
-module.exports = {
-    handler : routinghandler,
-    sometext : 'Some hard coded text'
-};
+// module.exports = {
+//     handler : routinghandler,
+//     sometext : 'Some hard coded text'
+// };
+
